@@ -1,0 +1,4 @@
+leftEye500,600rightEye500,600|700,800leftEye100,500
+leftEye100,200|200,300
+rightEye300,500
+leftEye100,5

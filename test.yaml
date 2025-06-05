@@ -1,0 +1,7 @@
+names:
+  '0': smoke
+  '1': drink
+  '2': phone
+nc: 3
+train: D:\homework\data\data3\dataset_v2\train
+val: D:\homework\data\data3\dataset_v2\val
